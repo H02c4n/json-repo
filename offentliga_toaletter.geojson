@@ -1,0 +1,1238 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "offentliga_toaletter",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7320316516, 56.0006916202 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"Toalettnr" : 106,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Råå Vallar, söder",
+				"Sasong" : "Sommar: april - september, Vinter: september - april",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 20:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon111",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Råå Vallar söder, Kustgatan. Vattenutkastare finns.",
+				"Bildlank" : "https://hbg.icatserver.com/original/106rvallarsdra.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005090616"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7586403198, 55.9633802344 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"Toalettnr" : 101,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "",
+				"Plats" : "Fortuna Strand",
+				"Sasong" : "april - september",
+				"Oppettider" : "00:00 - 24:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : "fristaende110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns, låst",
+				"Bildlank" : "https://hbg.icatserver.com/original/101fortunastrand.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082652"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7584209444, 55.9670325939 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"Toalettnr" : 102,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Rydebäck strand",
+				"Sasong" : "Sommar: april - september, Vinter: september - april",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 20:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : null,
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : "2019",
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/102rydebcksstrand.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005075623"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.75490693, 55.9823225263 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"Toalettnr" : 103,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2018",
+				"Plats" : "Örby Ängar",
+				"Sasong" : "Sommar: april - september, Vinter: september - april",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Örbyvägen, vid Fotbollsplatsen. Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/103rbyngar.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005090636"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7498085617, 55.9892725651 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"Toalettnr" : 104,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Örbybadet",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 20:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : "fristaende110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Örbybadet, Västindiegatan. Vattenutkastare finns inte.",
+				"Bildlank" : "https://hbg.icatserver.com/original/104rbybadet.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005092112"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7286818752, 56.0020884716 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"Toalettnr" : 107,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Råå Vallar, norr",
+				"Sasong" : "april - september\r\n",
+				"Oppettider" : "07:00 - 22:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon111",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Råå Vallar norr, Kustgatan\nVattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/107rvallarnorra.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082656"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6867908457, 56.0445056298 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"Toalettnr" : 109,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Tropical beach",
+				"Sasong" : "april - september",
+				"Oppettider" : "00:00 - 24:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "fristaende020",
+				"Antal_unisex" : 2,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : "2019",
+				"Beskrivning" : "Vattenutkastare finns inte, två duschar finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/109tropical.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20210415135704"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6836151359, 56.0529250789 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"Toalettnr" : 110,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Gröningen södra",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "inbyggd121",
+				"Antal_unisex" : 2,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/110grningensdra.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005085535"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6833200472, 56.0535859024 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"Toalettnr" : 111,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Gröningen norra",
+				"Sasong" : "Sommar: april - september, Vinter: september - april",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "inbyggd121",
+				"Antal_unisex" : 2,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/111grningennorra.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005085525"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6818611425, 56.057137861 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"Toalettnr" : 113,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2018",
+				"Plats" : "Friabad/Örestrandsbadet",
+				"Sasong" : "Sommar: maj - september, Vinter: september - maj\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 7,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 2,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/113friabad-restrandsbadet.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082053"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.681422898, 56.0587200038 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"Toalettnr" : 114,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Friabad",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "07:00 - 22:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon101",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/114friabad.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082641"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6769089407, 56.0659122305 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"Toalettnr" : 115,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Pålsjö Norra",
+				"Sasong" : "maj - september \r\n",
+				"Oppettider" : "07:00 - 22:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 2,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : "2018",
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/115plsjnorra.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082645"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6679407537, 56.072715419 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"Toalettnr" : 116,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Vikingstrandsbadet",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns, låst",
+				"Bildlank" : "https://hbg.icatserver.com/original/116vikingstrandsbadet.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20210415125637"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6456514715, 56.0909230974 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"Toalettnr" : 117,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Laröds badet",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/117lardsbadet.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082616"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.636742509, 56.0973062634 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"Toalettnr" : 118,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Hittarps hamn",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : "2020",
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/118hittarp.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082859"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6044900945, 56.1176747826 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"Toalettnr" : 119,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Domstens hamn",
+				"Sasong" : "april - september",
+				"Oppettider" : "07:00 - 22:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 2,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns låst",
+				"Bildlank" : "https://hbg.icatserver.com/original/119domstenshamn.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005082954"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.5998628636, 56.125451615 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"Toalettnr" : 120,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2017",
+				"Plats" : "Domsten/Talldungen",
+				"Sasong" : "Sommar: april - oktober, Vinter: oktober -april",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 20:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/120domsten-talldungen.jpg",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005083045"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.782616633, 56.2190534945 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"Toalettnr" : 121,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Utvälinge",
+				"Sasong" : "juni - september\r\n",
+				"Oppettider" : "00:00 - 24:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "toalettvagn",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : " ",
+				"Skapad_datum" : "20150423",
+				"Redigerad_datum" : "20201005083109"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7401494136, 55.9965302044 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"Toalettnr" : 105,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Batteritorget",
+				"Sasong" : null,
+				"Oppettider" : "Öppettider när verksamheten har öppet",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Kustgatan på Råå. Vattenutkastare finns inte.",
+				"Bildlank" : "https://hbg.icatserver.com/original/105batteritorget.jpg",
+				"Skapad_datum" : "20151113155328",
+				"Redigerad_datum" : "20201005083407"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7498136569, 56.022175614 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"Toalettnr" : 401,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Ramlösa Pelarhus",
+				"Sasong" : "maj - september \r\n",
+				"Oppettider" : "00:00 - 24:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "toalettvagn",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns på byggnaden intill",
+				"Bildlank" : "https://hbg.icatserver.com/original/401ramlsabrunnsparken.jpg",
+				"Skapad_datum" : "20151113160019",
+				"Redigerad_datum" : "20201005085445"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7071152286, 56.037817899 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"Toalettnr" : 301,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2013-07-04",
+				"Plats" : "Furutorpsplatsen/Furutorpsgatan",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "06:00 - 22:00\r\n",
+				"Avgift" : "5kr",
+				"Modell" : "teragon101city",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/301furutorpsplatsen.jpg",
+				"Skapad_datum" : "20151113160254",
+				"Redigerad_datum" : "20201005083619"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7032163539, 56.0382524811 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"Toalettnr" : 302,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2015",
+				"Plats" : "Gustav Adolf torg",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : null,
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110tvatt",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/302ga-torg-torghandlarna.jpg",
+				"Skapad_datum" : "20151113160448",
+				"Redigerad_datum" : "20201005083639"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7021408781, 56.0385536362 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"Toalettnr" : 304,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Gustav Adolf torgs urinoar",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "00:00 - 24:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "urinoar",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/304ga-torg-urinoar.jpg",
+				"Skapad_datum" : "20151113160622",
+				"Redigerad_datum" : "20201005083754"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7016859158, 56.0387516986 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"Toalettnr" : 305,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Gustav Adolf torg/Carl Krooks gata",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "06:00 - 22:00\r\n",
+				"Avgift" : "5kr",
+				"Modell" : "teragon100city",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/305ga-torg-carlkrooksgata.jpg",
+				"Skapad_datum" : "20151113160755",
+				"Redigerad_datum" : "20201005083821"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6950091056, 56.0433926303 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"Toalettnr" : 306,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : "2005",
+				"Plats" : "Bussterminalen/Helsingborg C",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "00:00 - 24:00\r\n",
+				"Avgift" : "10kr",
+				"Modell" : " ",
+				"Antal_unisex" : 4,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : "2017",
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/306bussterminalen.jpg",
+				"Skapad_datum" : "20151113160922",
+				"Redigerad_datum" : "20201005083842"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6935419248, 56.0451018155 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"Toalettnr" : 308,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Kungstorget",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "05:00 - 23:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/308kungstorget.jpg",
+				"Skapad_datum" : "20151117165204",
+				"Redigerad_datum" : "20201005084024"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6922301186, 56.0455965799 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"Toalettnr" : 309,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Hamnpaviljongen/Hamntorget",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "10:00 - 00:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/309hamnpaviljongen.jpg",
+				"Skapad_datum" : "20151117165339",
+				"Redigerad_datum" : "20201005084112"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.697233842, 56.0476007138 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"Toalettnr" : 310,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Kärnan",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "07:00 - 22:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "oas101",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : "2003",
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/310krnan.jpg",
+				"Skapad_datum" : "20151117165621",
+				"Redigerad_datum" : "20220330121653"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6908056988, 56.0478391981 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"Toalettnr" : 311,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Sundstorget",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "06:00 - 20:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns, låst",
+				"Bildlank" : "https://hbg.icatserver.com/original/311sundstorget.jpg",
+				"Skapad_datum" : "20151117165944",
+				"Redigerad_datum" : "20201005084348"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6923111893, 56.0481154212 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"Toalettnr" : 312,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Konsul Olssons Plats",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "05:00 - 23:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/312konsulolssonsplats.jpg",
+				"Skapad_datum" : "20151117170241",
+				"Redigerad_datum" : "20201005084409"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7748781465, 56.0513999447 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"Toalettnr" : 502,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Bruces skog",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 18:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/502brucesskog.jpg",
+				"Skapad_datum" : "20151117170509",
+				"Redigerad_datum" : "20201005085008"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6913350688, 56.0531001369 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"Toalettnr" : 313,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2015",
+				"Plats" : "Vikingsbergsparken",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "07:00 - 22:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/313vikingsbergsparken.jpg",
+				"Skapad_datum" : "20151117170614",
+				"Redigerad_datum" : "20201005084435"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6829108914, 56.0554101749 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"Toalettnr" : 112,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2018",
+				"Plats" : "Gröningen, Surflekplatsen",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 3,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns. Cykelpump finns.",
+				"Bildlank" : "https://hbg.icatserver.com/original/112grningenslekplats.jpg",
+				"Skapad_datum" : "20151117171036",
+				"Redigerad_datum" : "20201005085621"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6872420505, 56.0688853192 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"Toalettnr" : 314,
+				"Typ" : "ibefintligbygg",
+				"Anlaggning" : " ",
+				"Plats" : "Pålsjöpaviljongen",
+				"Sasong" : "april - oktober\r\n",
+				"Oppettider" : null,
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : 2,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/314plsjpaviljongen.jpg",
+				"Skapad_datum" : "20151117171622",
+				"Redigerad_datum" : "20201005084508"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.689875596, 56.0705941972 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"Toalettnr" : 315,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Pålsjö skog",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon101",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/315plsjskog.jpg",
+				"Skapad_datum" : "20151117171734",
+				"Redigerad_datum" : "20201005084639"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6919306024, 56.0384081554 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"Toalettnr" : 303,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2016",
+				"Plats" : "Pixlapiren",
+				"Sasong" : "april - september\r\n",
+				"Oppettider" : "07:00 - 23:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/303pixlapiren.jpg",
+				"Skapad_datum" : "20161213110123",
+				"Redigerad_datum" : "20201005083717"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6746130682, 56.071526139 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"Toalettnr" : 316,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2016",
+				"Plats" : "Thalassa",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/316thalassa.jpg",
+				"Skapad_datum" : "20161213110213",
+				"Redigerad_datum" : "20201005084722"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6977936272, 56.0419631881 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"Toalettnr" : 307,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2017",
+				"Plats" : "Stadsparken",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "06:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : " ",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 1,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmsaknas",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns inte",
+				"Bildlank" : "https://hbg.icatserver.com/original/307stadsparken.jpg",
+				"Skapad_datum" : "20171106084252",
+				"Redigerad_datum" : "20201005083957"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7207482729, 56.0054085591 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"Toalettnr" : 108,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2018",
+				"Plats" : "Knähaken",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 20:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/108knhaken.jpg",
+				"Skapad_datum" : "20180326130740",
+				"Redigerad_datum" : "20201005080510"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7253151367, 56.0638285256 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"Toalettnr" : 503,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2018",
+				"Plats" : "Drottninghögs lekplats",
+				"Sasong" : "januari - december\r\n",
+				"Oppettider" : "07:00 -  21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns\nCykelpump finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/503drottninghgslekplats.jpg",
+				"Skapad_datum" : "20190910132611",
+				"Redigerad_datum" : "20201005085044"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7865597556, 55.9994531705 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"Toalettnr" : 201,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2019",
+				"Plats" : "Görarps mölla",
+				"Sasong" : "Sommar: april - september, Vinter: september - april\r\n",
+				"Oppettider" : "Sommar: 07:00 - 22:00, Vinter: 07:00 - 21:00\r\n",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns",
+				"Bildlank" : "https://hbg.icatserver.com/original/201grarpsmlla.jpg",
+				"Skapad_datum" : "20190910135238",
+				"Redigerad_datum" : "20201005083523"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6793836939, 56.0646743639 ]
+			},
+			"properties" : {
+				"OBJECTID" : 844,
+				"Toalettnr" : 318,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : " ",
+				"Plats" : "Pålsjö",
+				"Sasong" : "januari - december",
+				"Oppettider" : "00:00 - 24:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : "urinoar",
+				"Antal_unisex" : null,
+				"Antal_urinoar" : 3,
+				"Antal_HWC" : null,
+				"HWC_larm" : "inteaktuellt",
+				"Skotbord" : " ",
+				"Senastrenoverad" : "2019",
+				"Beskrivning" : " ",
+				"Bildlank" : " ",
+				"Skapad_datum" : "20200701093133",
+				"Redigerad_datum" : "20201014094148"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7426022285, 55.9920612557 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1644,
+				"Toalettnr" : 202,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : "2018",
+				"Plats" : "Råå hamn",
+				"Sasong" : "april - oktober",
+				"Oppettider" : "00:00 - 24:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : "fristaende110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "nej",
+				"Senastrenoverad" : null,
+				"Beskrivning" : null,
+				"Bildlank" : null,
+				"Skapad_datum" : "20210119153917",
+				"Redigerad_datum" : "20210119153917"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6903933637, 56.0463472552 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2044,
+				"Toalettnr" : 317,
+				"Typ" : "egenbyggnad",
+				"Anlaggning" : null,
+				"Plats" : "SeaU",
+				"Sasong" : "januari - december",
+				"Oppettider" : "07:00 - 22:00",
+				"Avgift" : "ingenavgift",
+				"Modell" : "teragon110",
+				"Antal_unisex" : 1,
+				"Antal_urinoar" : null,
+				"Antal_HWC" : 1,
+				"HWC_larm" : "larmfinns",
+				"Skotbord" : "ja",
+				"Senastrenoverad" : null,
+				"Beskrivning" : "Vattenutkastare finns. Cykelpump finns",
+				"Bildlank" : null,
+				"Skapad_datum" : "20220218080546",
+				"Redigerad_datum" : "20220218080648"
+			}
+		}
+	]
+}
