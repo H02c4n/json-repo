@@ -1,0 +1,2764 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "lekplatser",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6871258243, 56.0692711412 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "1",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Pålsjö Christer Boijes väg Pålsjö skog paviljongen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6971588472, 56.0656934676 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "2",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Ringstorp Hagaplan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6967343232, 56.0686419466 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "3",
+				"Namn" : " ",
+				"Upprustningsar" : 2008,
+				"Adress" : "Ringstorp Nils Kaggs gata Pålsjö östra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6976097373, 56.0637403462 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "5",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Ringstorp Carl Öhrns gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7123722988, 56.0712032174 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "7",
+				"Namn" : "Gott och blandat",
+				"Upprustningsar" : 2011,
+				"Adress" : "Kadettgatan-Gevärsgatan Västra Berga fd bygglek"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.708911083, 56.0698572041 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "8",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Ringstorp Kadettgatan-Volontärsgat södra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7065339731, 56.0710926882 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "9",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Ringstorp Volontärsgatan-Kadettgat norra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7002395585, 56.0594187327 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "12",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Ringstorp Grubbagatan Rosenbergsparken"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6864330398, 56.0551245462 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "14",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Tågaborg Margaretaplatsen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.694162159, 56.0551273474 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "16",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Tågaborg Pålsjögatan-Föreningsgat"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6889712427, 56.0587237939 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "18",
+				"Namn" : " ",
+				"Upprustningsar" : 2004,
+				"Adress" : "Tågaborg Wrangersgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6903992084, 56.0536468462 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "20",
+				"Namn" : "Vikingsberglekan",
+				"Upprustningsar" : 2017,
+				"Adress" : "Vikingsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6535919698, 56.0905993848 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "22",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Laröd Sandstensgatan Serpentinvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6480436332, 56.0965839494 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "23",
+				"Namn" : " ",
+				"Upprustningsar" : 2008,
+				"Adress" : "Laröd Hittarpsvägen-Rosenvägen Sperlinge"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6525420948, 56.0861395672 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "24",
+				"Namn" : " ",
+				"Upprustningsar" : 2010,
+				"Adress" : "Laröd Enestigen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6359914823, 56.0972353907 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "25",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Hittarp Norra Kustvägen-Styrbord"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6573241986, 56.1000723438 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "28",
+				"Namn" : " ",
+				"Upprustningsar" : 2008,
+				"Adress" : "Laröd Hästskovägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.65638001, 56.0975647235 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "30",
+				"Namn" : " ",
+				"Upprustningsar" : 2008,
+				"Adress" : "Laröd Ridvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6588892725, 56.0959436794 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "31",
+				"Namn" : " ",
+				"Upprustningsar" : 2009,
+				"Adress" : "Laröd Hindervägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6593747813, 56.0944691847 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "32",
+				"Namn" : " ",
+				"Upprustningsar" : 2009,
+				"Adress" : "Laröd Skrittvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6612459407, 56.0942088709 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "33",
+				"Namn" : " ",
+				"Upprustningsar" : 2009,
+				"Adress" : "Laröd Russvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6609187336, 56.0907450256 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "34",
+				"Namn" : "Klättran",
+				"Upprustningsar" : 2009,
+				"Adress" : "Laröd, Derbyvägen, Sulkyvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6580468552, 56.0880894324 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "35",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Laröd Greve Ottos plats"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6041368072, 56.1179147491 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "36",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Domsten Seglarevägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7824067191, 56.2165622107 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "37",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Utvälinge Rodervägen-Skärgårdsstig"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7924615247, 56.1397317243 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "38",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Kattarp Mossavägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7873568235, 56.1407572696 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "39",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Kattarp Ringgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7838669272, 56.1397737472 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "40",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Kattarp Signalgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8145464208, 56.1372163357 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "41",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Hasslarp Lyckåkersgatan Unionsg - Lyckåkersg"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6959319542, 56.1227442613 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "43",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Allerum Rydsbogatan Hjälmshult Rydsbo"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6827605258, 56.0552237189 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "44",
+				"Namn" : "Surflekan",
+				"Upprustningsar" : 2020,
+				"Adress" : "Gröningen, Järnvägsmännens bad, Karl Johans gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6073423579, 56.119501787 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "47",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Domsten Lärkstigen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.729776779, 56.0667744348 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "105",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Dalhem Silvåkragatan kv Fabian"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7274327461, 56.0693321903 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "106",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Dalhem Kollebergagatan Kjellstorpsparken"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7362103358, 56.0636923657 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "108",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Dalhem Dalhemsv.-Drottninghögv. Gubbaparken"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7420059969, 56.066566683 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "110",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Dalhem Dalhemsvägen-Österleden N Hybolund"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7352264506, 56.0720690626 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "112",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Dalhem Brohultsvägen kv Evert"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7180130254, 56.0608541354 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "115",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Larmvägen Fredriksdal Parklek I"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.710843087, 56.0421425084 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "118",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Husensjö Eneborgsplatsen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7142898014, 56.0390687006 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "119",
+				"Namn" : " ",
+				"Upprustningsar" : 2014,
+				"Adress" : "Husensjö Furutorpsgatan-Varbergsg kv Hummern"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7146856591, 56.0427546739 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "121",
+				"Namn" : null,
+				"Upprustningsar" : 2015,
+				"Adress" : "Husensjö Viskgatan-Örebogatan Viskängen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.716408304, 56.0410415322 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "122",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Husensjö Viskgatan-Lundagatan Källängen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7212506664, 56.0419637874 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "124",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Husensjö Ystadsgatan Lillängen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7188120516, 56.0491479966 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "125",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Husensjö Husensjög-Åstorpsg Husensjöparken"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7279030855, 56.0483062189 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "127",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Husensjö Skövdegatan Rosengårdens parklek"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7234329894, 56.0437252974 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "129",
+				"Namn" : " ",
+				"Upprustningsar" : 2014,
+				"Adress" : "Husensjö Växjögatan-Jönköpingsgat Storängen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7314967507, 56.0435924466 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "130",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Husensjö Växjögatan-Motalagatan Lärkängen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.738675559, 56.0517766814 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "131",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Ragnvalla Marsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7389904955, 56.0440457196 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "133",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Ragnvalla Södra Hunnetorpsvägen Adolfsbergs parklek"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7329334626, 56.0389715527 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "135",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Ragnvalla Hedströmsgatan kv Grepen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7370552013, 56.0389124632 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "136",
+				"Namn" : " ",
+				"Upprustningsar" : 2014,
+				"Adress" : "Ragnvalla Apelgatan kv Pålen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7500881352, 56.0405918184 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "138",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Ragnvalla Onsdagsgatan Västergård södra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7482495442, 56.0832438341 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "141",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Väla Välatorpsvägen Väla by"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7549214984, 56.1028450861 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "144",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Ödåkra Solgårdsgatan Solgårdsg-Svensgårdsg"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.751667326, 56.1045932351 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "145",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Ödåkra Regnbågsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7568624976, 56.1054218731 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "146",
+				"Namn" : "Skepp o'hoj",
+				"Upprustningsar" : 2018,
+				"Adress" : "Ödåkra, Tögatan "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7608411143, 56.1005437528 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "148",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Ödåkra Snöbollsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.749630743, 56.1059416629 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "150",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Ödåkra Grönegatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7422101254, 56.1069219061 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "151",
+				"Namn" : " ",
+				"Upprustningsar" : 2005,
+				"Adress" : "Ödåkra Täppeg-Tuveg"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7556197164, 56.0967079463 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "152",
+				"Namn" : " ",
+				"Upprustningsar" : 2013,
+				"Adress" : "Ödåkra Jupitergatan Björka vid skola-dagis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7525346367, 56.0947833626 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "153",
+				"Namn" : " ",
+				"Upprustningsar" : 2013,
+				"Adress" : "Ödåkra Merkuriusgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7590428096, 56.09955371 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "154",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Ödåkra Solskensgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7573777559, 56.1008934551 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "158",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Ödåkra Månskensgatan Månskensg östra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7003751555, 56.0554378581 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "201",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Centrum Dämmegatan fd bygglek"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6948687858, 56.0517712804 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "202",
+				"Namn" : "Hopp i Topp",
+				"Upprustningsar" : 2011,
+				"Adress" : "Öresundsparken, Villatomtsvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6975313764, 56.0525080791 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "203",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Centrum Pastorsgatan kv Kyrkoherden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6999384944, 56.0532352835 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "204",
+				"Namn" : " ",
+				"Upprustningsar" : 2007,
+				"Adress" : "Centrum Mäster Jacobs gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7020511845, 56.0524009831 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "205",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Centrum Övre Långvinkelsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7003421296, 56.0476760153 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "utflyktslekplats",
+				"Lekplatsnummer" : "206",
+				"Namn" : "Medeltidslekan",
+				"Upprustningsar" : 2016,
+				"Adress" : "Drottning Margaretas gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6982506297, 56.0420385519 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "207",
+				"Namn" : "Stadslekan",
+				"Upprustningsar" : 2005,
+				"Adress" : "Stadsparken, Bollbrogatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7061088209, 56.0409782273 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "208",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Söder Sjöcronagatan Sjöcronaplatsen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7085525047, 56.0422760977 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "209",
+				"Namn" : "Tut tut",
+				"Upprustningsar" : 2007,
+				"Adress" : "Buntmakaregatan, Visitörsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7077900375, 56.0370506002 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "210",
+				"Namn" : "Parkleken",
+				"Upprustningsar" : 2018,
+				"Adress" : "Furutorpsplatsen, Gustav Adolfs gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7084170802, 56.0279671399 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "utflyktslekplats",
+				"Lekplatsnummer" : "211",
+				"Namn" : "För alla",
+				"Upprustningsar" : 2014,
+				"Adress" : "Wienertorget, Wienergatan, Öresundsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7427939279, 56.0330533305 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "215",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Gustavslund Rapsgatan Bankogården"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.728334202, 56.0354804045 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "217",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Närlunda Jordbogatan Jordbodalen södra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7277738248, 56.0362686207 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "218",
+				"Namn" : "Jordbodalen",
+				"Upprustningsar" : 2015,
+				"Adress" : "Jordbogatan, Jordbodalen norra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7323955015, 56.0330523497 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "220",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Närlunda Björkliden Björket"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7227350898, 56.0323257993 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "221",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Närlunda Närlundavägen Närlunda hemmet"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7357914435, 56.0275744746 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "224",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Närlunda Sigridsgatan Kilängen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7425739267, 56.0275826704 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "226",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Gustavslund Norra Brunnsv-Luntertung"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7475252845, 56.0282424904 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "227",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Gustavslund Birkagatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7506476116, 56.0303095749 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "230",
+				"Namn" : "Balans",
+				"Upprustningsar" : 2019,
+				"Adress" : "Birkagatan, Gustavslundsvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7492400335, 56.0336807435 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "231",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Gustavslund Markegångsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7399149265, 56.0245512505 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "234",
+				"Namn" : " ",
+				"Upprustningsar" : 2010,
+				"Adress" : "Ramlösa Barongatan västra leken"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7375796144, 56.0250708239 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "236",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Ramlösa Riddaregatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7434084636, 56.022008349 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "239",
+				"Namn" : " ",
+				"Upprustningsar" : 2010,
+				"Adress" : "Ramlösaparken Brunnsallén Ramlösaparken Villa Bego"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7436433723, 56.020755634 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "240",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Ramlösaparken Brunnsallén Ramlösaparken parklekspl"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7490194353, 56.0204236954 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "241",
+				"Namn" : " ",
+				"Upprustningsar" : 2010,
+				"Adress" : "Ramlösa Ungegatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7426165305, 56.0180760555 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "242",
+				"Namn" : " ",
+				"Upprustningsar" : 2008,
+				"Adress" : "Ramlösa Kummelgatan Ramlösa-Raahus kvartersl"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7515471592, 56.0225883245 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "243",
+				"Namn" : " ",
+				"Upprustningsar" : 2010,
+				"Adress" : "Ramlösa Bågenholmsgatan Ekebacken"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7492959472, 56.025696945 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "244",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Ramlösa Lindforsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7568602345, 56.0247256677 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "246",
+				"Namn" : " ",
+				"Upprustningsar" : 2010,
+				"Adress" : "Ramlösa Döbeliusvägen Humlegården kvarterlek"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7120085109, 56.0239169793 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "250",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Söder Barrstigen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7172587015, 56.0196675034 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "251",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Miatorp Rönneplatsen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7197643682, 56.0178405647 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "252",
+				"Namn" : " ",
+				"Upprustningsar" : 2013,
+				"Adress" : "Miatorp Berzelius plats"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7560169938, 56.0023998593 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "253",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Raus Sigurd Rings gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7260627352, 56.018102928 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "254",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Miatorp Sandåkersgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7255139655, 56.012496903 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "256",
+				"Namn" : " ",
+				"Upprustningsar" : 2006,
+				"Adress" : "Miatorp Blygatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7266308453, 56.0086493452 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "258",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Miatorp Odengatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7531027432, 56.0137476433 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "259",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Raus Bronsgatan Ättekulla"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7577573338, 56.0150867175 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "260",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Raus Runristargatan kv Hilding"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7578151629, 56.0104686504 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "263",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Raus Ättekullagatan kv Eddan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7358996084, 56.0052353724 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "264",
+				"Namn" : " ",
+				"Upprustningsar" : 2006,
+				"Adress" : "Miatorp Kielergatan vid bollplan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7504579778, 55.9947137114 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "265",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Råå Läsögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7343185452, 56.0023217148 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "266",
+				"Namn" : " ",
+				"Upprustningsar" : 2006,
+				"Adress" : "Miatorp Slaktaregatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7428722587, 55.9973274857 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "268",
+				"Namn" : " ",
+				"Upprustningsar" : 2006,
+				"Adress" : "Råå Jungmansgatan kv Skonaren"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7529275783, 55.9967755115 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "269",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Råå Kvartettgatan Pålstorp, västra leken"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7459838354, 56.0332056543 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "271",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Gustavslund Tunnlandsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8753794101, 56.0535471108 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "303",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Mörarp Godsägaregatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8775421747, 56.0568417675 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "304",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Mörarp Skräddaregatan skolpark"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8805990105, 56.0597899687 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "305",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Mörarp Jägaregatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8779557807, 56.0634402817 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "307",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Mörarp Sofiagatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8742283759, 56.0617109451 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "308",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Mörarp Bokhagsv-Hjalmarsv"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8834462537, 56.0539821155 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "309",
+				"Namn" : " ",
+				"Upprustningsar" : 2006,
+				"Adress" : "Mörarp Linjegatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.877690836, 56.0605876708 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "310",
+				"Namn" : " ",
+				"Upprustningsar" : 2006,
+				"Adress" : "Mörarp Margaretagatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8057660357, 55.9880565481 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "314",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Gantofta Dalsläntegatan P-plats vid affär"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7955923644, 55.9852043172 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "315",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Gantofta Timjansgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8027935165, 55.9844174317 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "316",
+				"Namn" : " ",
+				"Upprustningsar" : 2013,
+				"Adress" : "Gantofta Ingefäragatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8515229378, 55.9637927504 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "317",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Vallåkra Hasselstigen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8554207271, 55.9603532402 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "318",
+				"Namn" : " ",
+				"Upprustningsar" : 2007,
+				"Adress" : "Vallåkra Trädgårdsstigen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8023514875, 55.9884331659 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "319",
+				"Namn" : " ",
+				"Upprustningsar" : 2021,
+				"Adress" : "Gantofta Odlargatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8599604427, 55.9619423896 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "320",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Vallåkra Hyllestigen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.860323133, 55.9647371525 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "321",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Vallåkra Bokstigen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8161906029, 56.0306605505 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "325",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Påarp Glebers väg"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8111139727, 56.0332401773 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "326",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Påarp Törngatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8117116993, 56.028861485 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "327",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Påarp Idrottsgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8169668454, 56.0355879861 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "328",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Påarp Lokvägen vid kullar"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8049583458, 56.0270098278 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "331",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Påarp Äpplegatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7760021273, 55.9616125972 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "333",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Rydebäck Singögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7704593082, 55.9622124144 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "335",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Rydebäck Vindögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7716662153, 55.9636290301 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "336",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Rydebäck Ytterövägen-Vindögatan Bussgata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7657661509, 55.965337755 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "338",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Rydebäck Alnögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7685722562, 55.9704922257 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "339",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Rydebäck Orustgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7619703664, 55.969774874 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "340",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Rydebäck Långövägen-Särögatan Krokaskolan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.772881511, 55.9712591094 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "341",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Rydebäck Tryggögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7576971629, 55.9669089185 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "345",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Rydebäck Ytterövägen Stranden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.767018661, 55.9621709066 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "346",
+				"Namn" : " ",
+				"Upprustningsar" : 2004,
+				"Adress" : "Rydebäck Värmdögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8234142666, 56.0324577767 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "347",
+				"Namn" : " ",
+				"Upprustningsar" : 2003,
+				"Adress" : "Påarp Bäckängen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8175201113, 56.0347108515 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "348",
+				"Namn" : " ",
+				"Upprustningsar" : 2020,
+				"Adress" : "Påarp Lokvägen 17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8102182728, 56.0066573492 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "352",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Bårslöv Nejlikegatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7989707232, 56.0141408053 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "353",
+				"Namn" : " ",
+				"Upprustningsar" : 2007,
+				"Adress" : "Bårslöv Tistelgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7466636378, 56.1030404906 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "160",
+				"Namn" : " ",
+				"Upprustningsar" : 2019,
+				"Adress" : "Ödåkra Parkgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7694813228, 55.9712488005 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "357",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Rydebäck Ulvögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7504426438, 56.0436071209 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "139",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Ragnvalla Västergårdsgatan Västergård norra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6924343946, 56.0839875827 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "400",
+				"Namn" : "Hinderbana",
+				"Upprustningsar" : 2019,
+				"Adress" : "Senderöd Rosenfinksgatan, Koltrastgatan, Mariastaden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6315480104, 56.1006239278 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "48",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Hittarp Täppesbrovägen Stranden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8012620204, 56.0110295232 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "360",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Bårslöv Fyrhögagatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7556411614, 56.007844288 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "274",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Raus Erik Rödes gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6998381975, 56.0797200685 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "401",
+				"Namn" : " ",
+				"Upprustningsar" : 2022,
+				"Adress" : "Senderöd Tornfalksgatan Mariastaden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7516485596, 56.0049785578 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "275",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Raus Gånge-Rolfs gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7021071972, 56.0387496372 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "280",
+				"Namn" : " ",
+				"Upprustningsar" : 2007,
+				"Adress" : "Söder Carl Krooks gata"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.697409963, 56.0868080247 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "402",
+				"Namn" : " ",
+				"Upprustningsar" : 2010,
+				"Adress" : "Senderöd Ormvråksgatan Mariastaden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7516439826, 55.9859977617 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "404",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Örby Stranden Norr om bryggan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7512314006, 55.9868196554 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "405",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Örby Stranden Närmast hundbadet"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6005994156, 56.1217113096 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "406",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Norra stranden 25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6766417807, 56.0660314148 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "408",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Pålsjö Drottninggatan Norr om Påsjöbaden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6688179276, 56.0722326527 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "409",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Vikingsstrand Drottninggatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7281167628, 56.0022378998 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "411",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Råå vallar Kielergatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7315539504, 56.0009677575 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "412",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Råå vallar Revalgatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6983561714, 56.0861190925 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "415",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Senderöd Duvhögsg-Ormvråksg Mariastaden"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.826224243, 56.0301023573 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "417",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Påarp Frillestadsvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7808990266, 55.9607346601 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "418",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Rydebäck Käringögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7074167227, 56.0560843186 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "419",
+				"Namn" : " ",
+				"Upprustningsar" : 2018,
+				"Adress" : "Fredriksdal Gisela Trapps väg Fredriksdals skog"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7896645301, 56.1103071445 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "421",
+				"Namn" : " ",
+				"Upprustningsar" : 2011,
+				"Adress" : "Fleninge Magnerupsvägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7385021709, 56.0614292815 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "422",
+				"Namn" : " ",
+				"Upprustningsar" : 2012,
+				"Adress" : "Vasatorp Vasatorpsvägen Vasatorps trädgård"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7264980785, 56.0285136048 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "414",
+				"Namn" : "Parkourbanan",
+				"Upprustningsar" : 2011,
+				"Adress" : "Luggudegatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.780848124, 55.9673678829 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "423",
+				"Namn" : " ",
+				"Upprustningsar" : 2012,
+				"Adress" : "Rydebäck Holmögatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7813767118, 56.1439251013 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "425",
+				"Namn" : " ",
+				"Upprustningsar" : 2012,
+				"Adress" : "Kattarp Sköldingevägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6603919337, 56.0975408636 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "427",
+				"Namn" : "Ryktborsten",
+				"Upprustningsar" : 2012,
+				"Adress" : "Laröd, Körmästarevägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6920908601, 56.0883797849 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "428",
+				"Namn" : " ",
+				"Upprustningsar" : 2012,
+				"Adress" : "Senderöd Sparvugglegatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.751400047, 56.1003554993 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "430",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Ödåkra Venusgatan-Vildvinsgatan Ödåkra 4:23"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.695483058, 56.0576288773 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "431",
+				"Namn" : "Gulan",
+				"Upprustningsar" : 2014,
+				"Adress" : "Tågaparken, Stampgatan, Bagaregatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6925898566, 56.0481116824 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "432",
+				"Namn" : "Spindellekan",
+				"Upprustningsar" : 2014,
+				"Adress" : "Konsul Olssons plats"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7256396244, 56.0639940684 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "utflyktslekplats",
+				"Lekplatsnummer" : "434",
+				"Namn" : "Prinsessor och drakar",
+				"Upprustningsar" : 2014,
+				"Adress" : "Blåkullagatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6519978877, 56.0932261827 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "435",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Laröd Ärlevägen Ärlevägen-Plöjarevägen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7080558497, 56.080497696 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "436",
+				"Namn" : "Safarileken",
+				"Upprustningsar" : 2015,
+				"Adress" : "Axeltorpsgatan, Maria stationsområde"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7075768559, 56.0248967473 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "437",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : "Viktoriagatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7406354924, 56.0014726643 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "438",
+				"Namn" : " ",
+				"Upprustningsar" : 2014,
+				"Adress" : "Lybecksgatan, Kvarter Sjörået"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.8171983074, 56.0277390606 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "442",
+				"Namn" : " ",
+				"Upprustningsar" : 2015,
+				"Adress" : "Påarp, Eldaregatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7575051551, 56.0356649384 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "445",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Mangårdsgatan 50, Gustavslund"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6938289849, 56.0758454838 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "",
+				"Lekplatsnummer" : "451",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Pålsjö 1:1, Diakongatan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6887033838, 56.0614473711 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "6",
+				"Namn" : " ",
+				"Upprustningsar" : 2016,
+				"Adress" : "Pilvångsplatsen"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6807074267, 56.0577586118 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "",
+				"Lekplatsnummer" : "459",
+				"Namn" : "Gunga i vattnet",
+				"Upprustningsar" : 2017,
+				"Adress" : "Gröningen Norra 31"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7558411342, 56.1117398603 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "",
+				"Lekplatsnummer" : "453",
+				"Namn" : " ",
+				"Upprustningsar" : 2017,
+				"Adress" : "Västanvindsgatan i Ödåkra. (ovanför Östanvinsgatan)"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7238441382, 56.0540773829 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "",
+				"Lekplatsnummer" : "456",
+				"Namn" : " ",
+				"Upprustningsar" : null,
+				"Adress" : " "
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7071736962, 56.0530654191 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "",
+				"Lekplatsnummer" : null,
+				"Namn" : "Idrottsoasen",
+				"Upprustningsar" : null,
+				"Adress" : "Bakom Idrottensbus, Mellersta Stenbocksgatan 10"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.705565383, 56.0637457928 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "omradeslekplats",
+				"Lekplatsnummer" : "10",
+				"Namn" : "Polislekan",
+				"Upprustningsar" : 2019,
+				"Adress" : "Grenadjärsgatan 13"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7333138428, 56.000408068 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : null,
+				"Lekplatsnummer" : "429",
+				"Namn" : "Kustgatan",
+				"Upprustningsar" : null,
+				"Adress" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7050890461, 56.0817716395 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "0",
+				"Lekplatsnummer" : "462",
+				"Namn" : "Ny lekplats Maria Park 2019",
+				"Upprustningsar" : 2019,
+				"Adress" : "Liegatan 10"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7059581496, 56.0270703515 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "0",
+				"Lekplatsnummer" : "212",
+				"Namn" : null,
+				"Upprustningsar" : 2020,
+				"Adress" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7024995584, 56.0612388071 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "0",
+				"Lekplatsnummer" : "461",
+				"Namn" : "Lek- och Utegym",
+				"Upprustningsar" : 2020,
+				"Adress" : "Ringstorpsvägen 12"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7198694599, 56.0632825985 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "0",
+				"Lekplatsnummer" : "104",
+				"Namn" : "Grönkullaparken",
+				"Upprustningsar" : 2020,
+				"Adress" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7587137004, 55.9676256223 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "0",
+				"Lekplatsnummer" : "337",
+				"Namn" : "Strandlekan Rydebäck",
+				"Upprustningsar" : 2021,
+				"Adress" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7778753289, 55.9690970823 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "narlekplats",
+				"Lekplatsnummer" : "356",
+				"Namn" : "Kalvögatan 42",
+				"Upprustningsar" : 2021,
+				"Adress" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.6937333564, 56.0417078278 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "0",
+				"Lekplatsnummer" : "0",
+				"Namn" : "Djungellekan",
+				"Upprustningsar" : null,
+				"Adress" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 12.7268969532, 56.0576609737 ]
+			},
+			"properties" : {
+				"Lekplatskategori" : "utflyktslekplats",
+				"Lekplatsnummer" : "416",
+				"Namn" : "Dinosaurielekplatsen",
+				"Upprustningsar" : 2022,
+				"Adress" : "Dalhem Fredriksdal Minörgatan"
+			}
+		}
+	]
+}
